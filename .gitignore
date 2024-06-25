@@ -1,6 +1,2 @@
 # Binaries
-**/bin/
-**/bin-int/
-
-# Makefile
-**/Makefile
+**/bin
